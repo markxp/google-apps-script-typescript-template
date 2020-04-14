@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"lib": ["ESNext"],
+		"types": ["google-apps-script"],
+		"isolatedModules": false,
+		"noResolve": false,
+		"target": "ES2019",
+		"module": "None",
+		"experimentalDecorators": true,
+		"alwaysStrict": true,
+		"removeComments": false
+	},
+	"include": ["src/**/*.ts"],
+	"exclude": ["node_modules"]
+}
